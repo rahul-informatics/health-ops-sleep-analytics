@@ -223,7 +223,6 @@ This project was built during my post-surgery recovery, a period that came with 
 
 All model design decisions, feature selection rationale, cost assumption framing, and clinical interpretation were my own. Claude functioned as a technical sounding board — the equivalent of a pair programmer who catches the small things so you can stay focused on the bigger picture.
 
-This transparency is intentional. AI-assisted development is a real and growing part of the software engineering workflow. Documenting it honestly reflects how this project was actually built.
 
 ---
 
