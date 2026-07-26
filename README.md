@@ -3,6 +3,12 @@
 
 ---
 
+## About Me
+
+Hi, I'm **Rahul Rathinaswamy**, a high school student at **Ricky Reedy High School**. I'm passionate about the intersection of healthcare, data science, and machine learning. This project reflects my commitment to using technology to solve real-world health problems, combining my personal experience with sleep disorders, my exposure to clinical environments, and my growing expertise in computational biology and predictive modeling.
+
+---
+
 ## Executive Summary
 
 Sleep disorders affect more than 70 million Americans, yet the majority go undiagnosed until they surface as expensive emergency interventions. This project sits at the intersection of personal experience, clinical exposure, and computational biology — built to demonstrate that machine learning can close that gap at scale.
