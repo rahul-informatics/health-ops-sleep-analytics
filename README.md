@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi, I'm **Rahul Rathinaswamy**, a high school student at **Ricky Reedy High School**. I'm passionate about the intersection of healthcare, data science, and machine learning. This project reflects my commitment to using technology to solve real-world health problems, combining my personal experience with sleep disorders, my exposure to clinical environments, and my growing expertise in computational biology and predictive modeling.
+Hi, I'm **Rahulkrishna Rathinaswamy**, a high school student at **Ricky Reedy High School**. I'm passionate about the intersection of healthcare, data science, and machine learning. This project reflects my commitment to using technology to solve real-world health problems, combining my personal experience with sleep disorders, my exposure to clinical environments, and my growing expertise in computational biology and predictive modeling.
 
 ---
 
